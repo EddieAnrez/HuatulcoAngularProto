@@ -1,0 +1,19 @@
+div {
+    padding: 20px;
+}
+
+.space {
+    padding-right: 20px;
+}
+
+.imagen {
+    width: 20px;
+    height: 20px;
+}
+
+.isDisabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}

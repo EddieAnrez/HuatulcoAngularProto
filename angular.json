@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cofiacapp"
+    }
+  },
+  "defaultProject": "cofiacapp",
+  "cli": {
+    "analytics": false
+  }
 }

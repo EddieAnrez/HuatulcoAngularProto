@@ -1,0 +1,22 @@
+div {
+    margin: 10px;
+}
+
+.cuadro {
+    font-size: 100%;
+}
+
+.c-img {
+    max-width: 75%;
+    height: auto;
+}
+
+.c-img2 {
+    height: 16px;
+    width: 16px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

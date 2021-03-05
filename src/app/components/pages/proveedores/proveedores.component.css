@@ -1,0 +1,38 @@
+h1 {
+    margin: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.custom {
+    display: flex;
+}
+
+select {
+    width: 50%;
+}
+
+.cImg {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.icon {
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+.icon:hover {
+    opacity: 0.7;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
